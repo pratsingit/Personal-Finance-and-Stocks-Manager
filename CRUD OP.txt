@@ -1,0 +1,32 @@
+CRUD operations for the given tables:
+
+User table:
+
+CREATE: To create a new user, insert a new row into the User table with the required data.
+READ: To retrieve user data, use the SELECT statement to retrieve data from the User table based on the user_id, username, email, or any other unique identifier.
+UPDATE: To update user data, use the UPDATE statement to modify the data in the User table based on the user_id or any other unique identifier.
+DELETE: To delete a user record, use the DELETE statement to remove the user's data from the User table based on the user_id or any other unique identifier.
+Account table:
+
+CREATE: To create a new account, insert a new row into the Account table with the required data.
+READ: To retrieve account data, use the SELECT statement to retrieve data from the Account table based on the account_id or any other unique identifier.
+UPDATE: To update account data, use the UPDATE statement to modify the data in the Account table based on the account_id or any other unique identifier.
+DELETE: To delete an account record, use the DELETE statement to remove the account's data from the Account table based on the account_id or any other unique identifier.
+Income table:
+
+CREATE: To add a new income record, insert a new row into the Income table with the required data.
+READ: To retrieve income data, use the SELECT statement to retrieve data from the Income table based on the income_id or any other unique identifier.
+UPDATE: To update income data, use the UPDATE statement to modify the data in the Income table based on the income_id or any other unique identifier.
+DELETE: To delete an income record, use the DELETE statement to remove the income data from the Income table based on the income_id or any other unique identifier.
+Expenditure table:
+
+CREATE: To add a new expenditure record, insert a new row into the Expenditure table with the required data.
+READ: To retrieve expenditure data, use the SELECT statement to retrieve data from the Expenditure table based on the expense_id or any other unique identifier.
+UPDATE: To update expenditure data, use the UPDATE statement to modify the data in the Expenditure table based on the expense_id or any other unique identifier.
+DELETE: To delete an expenditure record, use the DELETE statement to remove the expenditure data from the Expenditure table based on the expense_id or any other unique identifier.
+Investment table:
+
+CREATE: To add a new investment record, insert a new row into the Investment table with the required data.
+READ: To retrieve investment data, use the SELECT statement to retrieve data from the Investment table based on the investment_id or any other unique identifier.
+UPDATE: To update investment data, use the UPDATE statement to modify the data in the Investment table based on the investment_id or any other unique identifier.
+DELETE: To delete an investment record, use the DELETE statement to remove the investment data from the Investment table based on the investment_id or any other unique identifier.
